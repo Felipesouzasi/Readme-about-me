@@ -7,7 +7,7 @@ Sou estudante de Engenharia de Software no Inatel, Instituto Nacional de Telecom
 
 ### Sobre mim
 ### 📚 Monitor
-Computação Gráfica e Multimídia, Matemática Discreta, Eletrônica Digital I e II.
+Matérias: Computação Gráfica e Multimídia, Matemática Discreta, Eletrônica Digital I e II.
 
 ### 💼 Bolsista em projetos de Iniciação Científica:
   - **Programação 1.0**: Ministrei minicursos de Python para alunos do Ensino Médio em várias escolas do Sudeste brasileiro.
