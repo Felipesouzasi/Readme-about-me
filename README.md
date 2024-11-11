@@ -1,7 +1,7 @@
 # Olá! Eu sou o Felipe 👋
 ---
 
-Sou estudante de Engenharia de Software no Inatel, Instituto Nacional de Telecomunicações, e estou atualmente no 6º período. Tenho 22 anos, mineiro 🔺, gosto muito de investimento e tenho facilidade com softskills. Estou em busca do meu primeiro estágio. Durante minha graduação recebi convites para trabalhar na Nokia e na Huawei, porém estava focado em me aprimorar e aproveitar outras oportunidades que a faculdade me oferecia, vem comigo que eu te conto um pouco do meu percuso até aqui! 😃
+Sou estudante de Engenharia de Software no Inatel, Instituto Nacional de Telecomunicações, e estou atualmente no 6º período. Tenho 21 anos, mineiro 🔺, gosto muito de investimento e tenho facilidade com softskills. Estou em busca do meu primeiro estágio. Durante minha graduação recebi convites para trabalhar na Nokia e na Huawei, porém estava focado em me aprimorar e aproveitar outras oportunidades que a faculdade me oferecia, vem comigo que eu te conto um pouco do meu percuso até aqui! 😃
 
 ---
 
