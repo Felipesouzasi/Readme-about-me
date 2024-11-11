@@ -1,12 +1,13 @@
 # Olá! Eu sou o Felipe 👋
-
+---
 Sou estudante de **Engenharia de Software** no **Inatel**, Instituto Nacional de Telecomunicações, e estou atualmente no 6º período. Tenho 22 anos, mineiro 🔺, gosto muito de investimento e tenho facilidade com softskills. Estou em busca do meu primeiro estágio. Durante minha graduação recebi convites para trabalhar na Nokia e na Huawei, porém estava focado em me aprimorar e aproveitar outras oportunidades que a faculdade me oferecia, vem comigo que eu te conto um pouco do meu percuso até aqui! 😃
 ---
 
 ### Sobre mim
-📚 Monitor de disciplinas como Computação Gráfica e Multimídia, Matemática Discreta, Eletrônica Digital I e II.
+### 📚 Monitor
+Computação Gráfica e Multimídia, Matemática Discreta, Eletrônica Digital I e II.
 
-💼 Bolsista em projetos de Iniciação Científica:
+### 💼 Bolsista em projetos de Iniciação Científica:
   - **Programação 1.0**: Ministrei minicursos de Python para alunos do Ensino Médio em várias escolas do Sudeste brasileiro.
   - **e-health**: Atualmente estou nessa IC desenvolvendo um aplicativo para auxiliar pessoas com dores pélvicas. Nela estou expandindo meus conhecimentos em Front-end e visão computacional.
 
@@ -17,12 +18,6 @@ Sou estudante de **Engenharia de Software** no **Inatel**, Instituto Nacional de
 🏆 Fetin
   - **IntelliVision**: Este ano, fiz um projeto da Feira Tecnológica do Inatel de Reconhecimento Facial para Autenticação e Controle de Fluxo de Pessoas usando Visão computacional. Confere ele aqui, tenho certeza que vai gostar!
   [IntelliVision](https://github.com/Felipesouzasi/projeto-fetin-2024)
-
----
-
-### Conecte-se comigo
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipesouza.engsoftware@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipesouza-softwareeng)
 
 ---
 
@@ -41,6 +36,12 @@ Sou estudante de **Engenharia de Software** no **Inatel**, Instituto Nacional de
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+### Conecte-se comigo
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipesouza.engsoftware@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipesouza-softwareeng)
 
 ---
 
